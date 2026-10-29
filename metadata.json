@@ -1,0 +1,10 @@
+{
+  "name": "Visual Physics Master",
+  "description": "Visual Physics Master – Class 9 & 10 (WBBSE & CBSE). Physics বুঝো ছবিতে, শেখো সহজে। Interactive simulations, Bengali explanations, AI Physics tutor, numerical solver, and practice tests.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
